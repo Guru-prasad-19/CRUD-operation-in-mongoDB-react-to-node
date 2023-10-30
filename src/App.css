@@ -10,3 +10,14 @@ button{
     border-radius: 11px;
     background-color: white;
 }
+.flexing{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.details{
+    border: 1px solid black;
+    width: 20%;
+    padding: 20px;
+    text-align: center;
+}
